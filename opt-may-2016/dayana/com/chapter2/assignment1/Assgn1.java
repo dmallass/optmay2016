@@ -4,6 +4,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Assgn1 {
+	//methods
 
 	public static void main(String[] args) {
 		voteEligibility();
