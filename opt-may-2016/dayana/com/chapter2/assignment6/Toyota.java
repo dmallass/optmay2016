@@ -1,6 +1,7 @@
 package com.chapter2.assignment6;
 
 public class Toyota extends Car {
+	//test
 	public void register()
 	{
 		System.out.println("All toyota cars are registered in DMV");
